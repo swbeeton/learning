@@ -1,0 +1,315 @@
+/* TEST */
+
+/* System NAV Bar */
+
+table#tblCrossSystemNavBar {
+    background-color: #666666;
+    font-family: Verdana;
+    font-size: 1.2em;
+    width: 100%;
+}
+
+table#tblCrossSystemNavBar {
+    font-family: Verdana;
+    font-size: 1.2em;
+}
+
+table#tblCrossSystemNavBar .ato-csnb-left {
+    float: left;
+}
+
+table#tblCrossSystemNavBar .ato-csnb-right {
+    float: right;
+}
+
+table#tblCrossSystemNavBar .ato-csnb-left td, table#tblCrossSystemNavBar .ato-csnb-right td {
+    color: #ffffff;
+    cursor: default;
+}
+
+table#tblCrossSystemNavBar a:link, table#tblCrossSystemNavBar a:visited {
+    color: #ffffff;
+}
+
+
+/* Title Bar overrides */
+
+.s4-title {
+    background: none;
+    background-color: #333 !important;
+    min-height:  88px;
+}
+
+
+.s4-titletext H1 {
+    display: none !important;
+}
+
+.s4-titletable {
+    padding-top: 8px;
+}
+
+.s4-title h1 a, .s4-title h2 a {
+    color: white;
+}
+
+.s4-title h2 {
+    color: white;
+}
+
+.s4-title .s4-pagedescription, .s4-title .s4uniqpermdescription {
+    color: white;
+}
+
+
+/* Left column overrides */
+
+body #s4-leftpanel {
+    display: none;
+}
+
+.s4-ca {
+    margin-left: 0;
+    -webkit-box-shadow: inset 0px 27px 10px -25px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0px 27px 10px -25px rgba(0,0,0,0.75);
+    box-shadow: inset 0px 27px 10px -25px rgba(0,0,0,0.75);
+}
+
+
+/* Menu Bar overrides */
+
+body #s4-topheader2 {
+    background: none;
+    background-color: #333;
+    vertical-align: middle;
+    min-height: 1em;
+    border: none;
+    -webkit-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 2px -1px rgba(0,0,0,0.5);
+    /*! overflow: visible; */
+    padding-left:  2em;
+    box-sizing: border-box;
+}
+
+.s4-tn li.static > .menu-item {
+    color: white;
+    white-space: nowrap;
+    font-size: 1.8em;
+    height: 1.5em;
+    padding:  0.5em 1em;
+    font-family: "segoe ui light", "segoe ui";
+	font-weight: 300;
+    
+}
+
+.s4-toplinks .s4-tn a.selected {
+    border: white 2px solid;
+    background-color: white;
+    color: #222;
+    -webkit-border-top-left-radius: 2px;
+    -webkit-border-top-right-radius: 2px;
+    -moz-border-radius-topleft: 2px;
+    -moz-border-radius-topright: 2px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    /*! padding:  8px 8px; */
+}
+
+.s4-search input.ms-sbplain {
+    font-size: 1.5em;
+    border-right: 0 !important;
+    width: 191px !important;
+    background: url("/_layouts/images/bgximg.png") repeat-x -0px -511px;
+    border: none    !important;
+    background-color: #fff;
+    height: 28px;
+    padding: 2px 17px;
+    -webkit-border-top-left-radius: 2px;
+    -webkit-border-bottom-left-radius: 2px;
+    -moz-border-radius-topleft: 2px;
+    -moz-border-radius-bottomleft: 2px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    -webkit-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    margin-top: 5px;
+    font-family: "segoe ui light", "segoe ui";
+	font-weight: 300;
+}
+
+
+.s4-search .srch-gosearchimg {
+    background: url("/_layouts/images/bgximg.png") repeat-x -0px -511px;
+    border: none !important;
+    background-color: #fff;
+    height: 32px;
+    padding: 0 !important;
+    margin-top: 5px;
+    -webkit-border-top-right-radius: 2px;
+    -webkit-border-bottom-right-radius: 2px;
+    -moz-border-radius-topright: 2px;
+    -moz-border-radius-bottomright: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    -webkit-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+}
+
+.s4-help {
+    display: inline-block;
+    margin: 14px 13px 12px -5px;
+}
+
+#s4-titlerow {
+        -webkit-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 2px -1px rgba(0,0,0,0.5);
+        overflow: visible;
+}
+
+
+/* Body Overrides */
+
+#s4-mainarea {
+	background-color: #efefef;
+	box-shadow: inset 0px 11px 5px -12px rgba(0,0,0,0.75);
+}
+
+body #MSO_ContentTable {
+    position: relative;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.s4-ca {
+	background: none;
+}
+
+
+
+
+/* COMPONENT STYLING */
+
+#article-promos {
+	overflow: auto;
+}
+
+#article-promos .article {
+    display: block;
+    float: left;
+    width: 19%;
+    padding: 1% 1%;
+    margin: 1% 0.5%;
+    -webkit-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 2px -2px rgba(0,0,0,0.5);
+    border-radius: 3px;
+    background-color: white;
+    min-height:  161px;
+    box-sizing: border-box;
+}
+
+#article-promos h1, #article-promos h2  {
+    font-family: "segoe ui";
+    font-size: 2em;
+	font-weight: 100;
+    line-height: 1.1em;
+    margin: 0 0 0.5em 0;
+    text-transform: uppercase;
+    color: #333;
+    /*! height:  3em; */
+    vertical-align: bottom;
+    
+}
+
+#article-promos h2 {
+	font-size: 1.2em;
+	text-transform: none;
+}
+	
+#article-promos h1 strong {
+    font-weight: normal;
+}
+
+#article-promos p, #article-promos aside, #article-promos a {
+    font-family: "segoe ui";
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+}
+
+#article-promos aside {
+    font-size: 1em
+}
+
+#article-promos a {
+    color: #333;
+	font-weight: bold;
+}
+
+#article-promos p+a {
+    font-weight: bold;
+}
+
+#article-promos a:last-of-type {
+    text-align: right;
+    display: inline-block;
+    /*! float:  right; */
+    text-transform: uppercase;
+    margin:  1em 0 0;
+    text-align:  center;
+}
+
+#events {
+	font-family: "segoe ui";
+	margin-bottom: 2em;
+}
+
+#events .event_listing {
+	margin-bottom: 2em;
+}
+
+#events h1 {
+	font-family: "segoe ui";
+    font-size: 1.5em;
+	font-weight: 100;
+    line-height: 1.1em;
+    margin: 0 0 0.5em 0;
+    color: #333;
+    /*! height:  3em; */
+    vertical-align: bottom;
+}
+
+#events p {
+	margin: 0 0 0.5em;
+}
+
+
+/* FONT FACES */
+
+@font-face {
+  font-family: 'Imprima-Regular';
+  src: url('Imprima-Regular.eot');
+  src: url('Imprima-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Imprima-Regular.woff') format('woff'),
+       url('Imprima-Regular.ttf') format('truetype'),
+       url('Imprima-Regular.svg#Imprima-Regular') format('svg');
+}
+
+/* TESTING */
+
+.tabs .tab a{
+    color:#00ACC1;
+}
+.tabs .tab a:hover,.tabs .tab a.active {
+	background-color:transparent;
+	color:#008B9B;
+}
+.tabs .tab.disabled a,.tabs .tab.disabled a:hover {
+	color:rgba(102,147,153,0.7);	
+}
+.tabs .indicator {
+	background-color:#009BAD;
+}

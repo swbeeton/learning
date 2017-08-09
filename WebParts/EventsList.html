@@ -1,0 +1,49 @@
+<html>
+
+<head><head>
+<script src="/_layouts/sp.core.js" type="text/javascript" onload="null"></script>
+
+<script src="/TASites/LearningHub/V2_Redevelopment/Core/js/lib/moment.min.js"></script>
+<script src="/TASites/LearningHub/V2_Redevelopment/Core/js/lib/jquery-3.2.1.min.js"></script>
+
+<script src="/TASites/LearningHub/V2_Redevelopment/Core/js/SPUser.js"></script>
+
+
+
+<script>
+
+
+	$( document ).ready( function ( ) {
+		
+		ExecuteOrDelayUntilScriptLoaded(function ( ) { // First argument is the function to run when script loads
+		
+		
+			var getUser_cb = function ( user ) {
+			
+				console.log( user.getUserId( ) );
+					
+			}
+			
+			var user = U$( getUser_cb );
+			
+			// var event = E$( getEvent_cb );
+			
+			// var registrations = R$( getRegistrations_cb );
+			
+		
+		},
+		
+		// second argument is the script to wait for.
+		"sp.js"
+		
+		);
+
+	})
+
+
+</script>
+
+<h1>Hello world!</h1>
+
+
+</html>

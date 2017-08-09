@@ -1,0 +1,28 @@
+<div style="text-align: left;">
+<img class="ms-rtePosition-4" src="/TASites/LearningHub/V2_Redevelopment/Core/img/LEmap.png" usemap="#map1457068057877" _moz_resizing="true" alt=""/>
+<map name="map1457068057877" id="map1457068057877">
+<area title="Darwin" href="#" id="map-Darwin" shape="rect" coords="253.5,9.419998168945312,331.5,30.419998168945312" alt="Darwin"/>
+<area title="Townsville" href="#" id="map-Townsville" shape="rect" coords="508.5,92.39999389648437,603.5,113.39999389648437" alt="Townsville"/>
+<area title="Alice Springs" href="#" id="map-Alice_Springs" shape="rect" coords="300.5,148.4099884033203,407.5,171.4099884033203" alt="Alice Springs"/>
+<area title="Perth" href="#" id="map-Perth" shape="rect" coords="88.5,292.4099884033203,142.5,314.4099884033203" alt="Perth"/>
+<area title="Brisbane" href="#" id="map-Brisbane" shape="rect" coords="613.5,211.4099884033203,702.5,230.4099884033203" alt="Brisbane"/>
+<area title="Chermside" href="#" id="map-Chermside" shape="rect" coords="613.5,235.38999938964844,700.5,254.38999938964844" alt="Chermside"/>
+<area title="Upper Mount Gravatt" href="#" id="map-Upper_Mount_Gravatt" shape="rect" coords="614.5,256.38999938964843,778.5,274.38999938964843" alt="Upper Mount Gravatt"/>
+<area title="Canberra" href="#" id="map-Canberra" shape="rect" coords="450.5,281.3999786376953,535.5,304.3999786376953" alt="Canberra"/>
+<area title="Adelaide" href="#" id="map-Adelaide" shape="rect" coords="316.5,330.4099884033203,404.5,353.4099884033203" alt="Adelaide"/>
+<area title="Newcastle" href="#" id="map-Newcastle" shape="rect" coords="616.5,307.4099884033203,709.5,322.4099884033203" alt="Newcastle"/>
+<area title="Parramatta" href="#" id="map-Parramatta" shape="rect" coords="618.5,329.3999786376953,707.5,344.3999786376953" alt="Parramatta"/>
+<area title="Penrith" href="#" id="map-Penrith" shape="rect" coords="617.5,349.3999786376953,678.5,364.3999786376953" alt="Penrith"/>
+<area title="Sydney" href="#" id="map-Sydney" shape="rect" coords="618.5,371.3999786376953,681.5,387.3999786376953" alt="Sydney"/>
+<area title="Wollongong" href="#" id="map-Wollongong" shape="rect" coords="617.5,389.3999786376953,707.5,406.3999786376953" alt="Wollongong"/>
+<area title="Albury" href="#" id="map-Albury" shape="rect" coords="512.5,351.38999938964843,588.5,373.38999938964843" alt="Albury"/>
+<area title="Burnie" href="#" id="map-Burnie" shape="rect" coords="501.5,387.3999786376953,572.5,410.3999786376953" alt="Burnie"/>
+<area title="Hobart" href="#" id="map-Hobart" shape="rect" coords="519.5,463.3999786376953,597.5,485.3999786376953" alt="Hobart"/>
+<area title="Box Hill" href="#" id="map-Box_Hill" shape="rect" coords="376.5,395.4099884033203,444.5,416.4099884033203" alt="Box Hill"/>
+<area title="Dandenong" href="#" id="map-Dandenong" shape="rect" coords="361.5,419.3999786376953,447.5,436.3999786376953" alt="Dandenong"/>
+<area title="Geelong" href="#" id="map-Geelong" shape="rect" coords="375.5,440.3899688720703,446.5,456.3899688720703" alt="Geelong"/>
+<area title="Melbourne" href="#" id="map-Melbourne" shape="rect" coords="363.5,460.4099884033203,445.5,476.4099884033203" alt="Melbourne"/>
+<area title="Moonee Ponds" href="#" id="map-Moonee_Ponds" shape="rect" coords="338.5,481.3999786376953,444.5,499.3999786376953" alt="Moonee Ponds"/>
+<area shape="rect" coords="821,570,822,571"/>
+</map>
+</div>
